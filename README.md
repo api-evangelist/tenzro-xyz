@@ -64,5 +64,149 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-tenzro-xyz is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://tenzro.xyz/
+Tenzro Labs offers managed access to frontier open models, custom harnesses for agentic systems, and secure deployments for agents and models with NVIDIA OpenShell and confidential, attested environments, all settled on the open Tenzro Network. The Tenzro Labs Platform is an OpenAI-compatible model API and MCP server; Cortex is the assistant for people.
+
+**Areas:** Company · AI · Machine-Learning · MCP · Platform · OpenAI-Compatible
+
+## tenzro-xyz on APIs.io
+
+Everything profiled for tenzro-xyz is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tenzro-xyz/](https://apis.io/providers/tenzro-xyz/)** — or go straight to one of the APIs or properties below.
+
+### APIs (24)
+
+- [Tenzro Labs Platform API](https://apis.io/apis/tenzro-xyz/tenzro-labs-platform-api/) — Browse the curated catalogue; manage credits, billing, keys, plans and rentals; place and pay orders; run Datasets, Fieldwork, Voices and Forecasts. Chat,…
+- [Tenzro Labs Model API](https://apis.io/apis/tenzro-xyz/tenzro-labs-model-api/) — Call Tenzro Labs models with a Platform API key. Each model kind has its own endpoint; the Platform routes each call to a machine on the Tenzro Network that…
+- [tenzro-xyz Account API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-account-api/) — The Account API from tenzro-xyz — 1 operation(s) for account.
+- [tenzro-xyz API keys API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-api-keys-api/) — The API keys API from tenzro-xyz — 2 operation(s) for api keys.
+- [tenzro-xyz Audio API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-audio-api/) — The Audio API from tenzro-xyz — 1 operation(s) for audio.
+- [tenzro-xyz Billing API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-billing-api/) — The Billing API from tenzro-xyz — 14 operation(s) for billing.
+- [tenzro-xyz Catalogue API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-catalogue-api/) — The Catalogue API from tenzro-xyz — 10 operation(s) for catalogue.
+- [tenzro-xyz Credits API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-credits-api/) — The Credits API from tenzro-xyz — 4 operation(s) for credits.
+- [tenzro-xyz Datasets API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-datasets-api/) — The Datasets API from tenzro-xyz — 9 operation(s) for datasets.
+- [tenzro-xyz Embeddings API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-embeddings-api/) — The Embeddings API from tenzro-xyz — 1 operation(s) for embeddings.
+- [tenzro-xyz Fieldwork API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-fieldwork-api/) — The Fieldwork API from tenzro-xyz — 23 operation(s) for fieldwork.
+- [tenzro-xyz Fieldwork ingest API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-fieldwork-ingest-api/) — The Fieldwork ingest API from tenzro-xyz — 8 operation(s) for fieldwork ingest.
+- [tenzro-xyz Forecasts API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-forecasts-api/) — The Forecasts API from tenzro-xyz — 1 operation(s) for forecasts.
+- [tenzro-xyz Identity & agents API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-identity-agents-api/) — The Identity & agents API from tenzro-xyz — 6 operation(s) for identity & agents.
+- [tenzro-xyz Images API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-images-api/) — The Images API from tenzro-xyz — 1 operation(s) for images.
+- [tenzro-xyz Keys API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-keys-api/) — The Keys API from tenzro-xyz — 1 operation(s) for keys.
+- [tenzro-xyz Models API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-models-api/) — The Models API from tenzro-xyz — 1 operation(s) for models.
+- [tenzro-xyz Orders API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-orders-api/) — The Orders API from tenzro-xyz — 3 operation(s) for orders.
+- [tenzro-xyz Plans & rentals API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-plans-rentals-api/) — The Plans & rentals API from tenzro-xyz — 4 operation(s) for plans & rentals.
+- [tenzro-xyz Time API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-time-api/) — The Time API from tenzro-xyz — 6 operation(s) for time.
+- [tenzro-xyz Videos API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-videos-api/) — The Videos API from tenzro-xyz — 3 operation(s) for videos.
+- [tenzro-xyz Vision API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-vision-api/) — The Vision API from tenzro-xyz — 13 operation(s) for vision.
+- [tenzro-xyz Voices API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-voices-api/) — The Voices API from tenzro-xyz — 23 operation(s) for voices.
+- [tenzro-xyz Chat Completions API](https://apis.io/apis/tenzro-xyz/tenzro-xyz-chat-completions-api/) — The Chat Completions API from tenzro-xyz — 1 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Tenzro Xyz Agentic Access](https://apis.io/agentic-access/tenzro-xyz/tenzro-xyz-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Tenzro Xyz Context](https://apis.io/jsonld/tenzro-xyz/tenzro-xyz-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [tenzro-xyz API Rules](https://apis.io/rules/tenzro-xyz/tenzro-xyz-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Tenzro Xyz Authentication](https://apis.io/security/tenzro-xyz/tenzro-xyz-authentication/)
+- [Tenzro Xyz Domain Security](https://apis.io/security/tenzro-xyz/tenzro-xyz-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Tenzro Xyz Scopes](https://apis.io/scopes/tenzro-xyz/tenzro-xyz-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Tenzro Xyz Plans Pricing](https://apis.io/plans/tenzro-xyz/tenzro-xyz-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Tenzro Xyz Rate Limits](https://apis.io/rate-limits/tenzro-xyz/tenzro-xyz-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tenzro.xyz/)
+- [Documentation](https://platform.tenzro.xyz/docs)
+- [Pricing](https://tenzro.xyz/pricing)
+- [Support](https://tenzro.xyz/contact)
+- [GitHub](https://github.com/tenzro)
+
+## API Evangelist rating
+
+**Kin Score 46.9** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 48.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 24.2 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 29.5 |
+
+**Agent readiness 48.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tenzro-xyz/](https://apis.io/providers/tenzro-xyz/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for tenzro-xyz: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/tenzro-xyz/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
